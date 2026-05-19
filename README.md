@@ -130,6 +130,7 @@ The United States generated the highest international revenue contribution
 The dataset contains only 2 stores and limited time coverage, restricting long-term trend analysis and year-over-year comparisons.
 
 ##Data Pipeline
+
 Raw Sakila Database (MySQL)
 Data Cleaning & Transformation (SQL)
 Exploratory Data Analysis (SQL)
