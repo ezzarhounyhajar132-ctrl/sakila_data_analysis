@@ -103,7 +103,6 @@ Interactive dashboard with multiple report pages and dynamic filtering.
 ° DAX Measures & Dynamic Ranking (RANKX)  
 ° Monthly Revenue Trend Analysis  
 ° Rating, Store & Category Slicers  
-° Interactive drill-down analysis
 
 ---
 
