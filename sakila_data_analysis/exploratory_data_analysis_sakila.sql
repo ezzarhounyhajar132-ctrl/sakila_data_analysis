@@ -95,7 +95,7 @@ ORDER BY sum_amount DESC;
 SELECT a.city_id, COUNT(*) AS rental_count
 FROM rental_tab r
 JOIN customer_tab c ON c.customer_id = r.customer_id
-JOIN address_tab a ON a.address_id = c.address_id
+JOIN tab_address a ON a.address_id = c.address_id
 GROUP BY a.city_id
 ORDER BY rental_count DESC;
 
