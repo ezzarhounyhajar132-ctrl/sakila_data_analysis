@@ -26,4 +26,4 @@ SET country = 'Democratic Republic of Congo'
 WHERE country LIKE 'Congo, The Democratic Republic%';
  
  update country_tab 
- set country= concat(ucase(left(country,1)),lcase(substring(country, 1)));
+ set country= concat(ucase(left(country,1)),lcase(substring(country, 2)));
