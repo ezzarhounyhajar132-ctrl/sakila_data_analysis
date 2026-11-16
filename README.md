@@ -151,7 +151,7 @@ Interactive dashboard with multiple report pages and dynamic filtering.
 ##  Key Insights
 
 ° Total revenue reached $67.4K during the active rental period  
-° Revenue peaked in July 2005, showing strong seasonal demand  
+° Revenue peaked in July 2005 at $28K
 ° Sports generated the highest category revenue despite not having the largest inventory  
 ° Foreign contained the most films but did not lead revenue generation  
 ° PG-13 films generated the highest revenue among all ratings  
@@ -159,13 +159,15 @@ Interactive dashboard with multiple report pages and dynamic filtering.
 ° Inventory distribution remained highly balanced across both stores  
 ° Both stores generated nearly identical revenue performance  
 ° Top customers spent almost double the average customer revenue  
-° The United States generated the highest international revenue contribution
+° India generated the highest revenue, followed by China and the United States
 
 ---
 
 ##  Notes
 
 ° The dataset contains only 2 stores and limited time coverage, restricting long-term trend analysis and year-over-year comparisons.
+° The dataset contains only 2 stores and limited time coverage, restricting long-term trend analysis and year-over-year comparisons.
+The original table has 200 actors. During cleaning I found one invalid/duplicate record (actor_id 110) and removed it, so the cleaned data has 199
 
 ---
 
