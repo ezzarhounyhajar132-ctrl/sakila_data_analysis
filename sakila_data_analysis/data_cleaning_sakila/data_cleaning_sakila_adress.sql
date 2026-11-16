@@ -49,7 +49,8 @@ where (address is null or trim(address)='')
 and (district is null or trim(district)='')
 and (city_id is null or trim(city_id)='')
 and (postal_code is null or trim(postal_code)='')
-and (phone is null or trim(phone)='');
+and (phone is null or trim(phone)='')
+and (location is null or trim(location)='');
 
 -- Remove non-numeric characters from phone numbers
 UPDATE tab_address
